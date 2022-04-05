@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"pad",
+				"padEnd"
+			],
+			[
+				"de",
+				"deep"
+			],
+			[
+				"dee",
+				"deepObj"
+			],
+			[
+				"ob",
+				"object2"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fil",
+				"filterArray"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"ma",
+				"mapArray"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"excl",
+				"exclam"
+			],
+			[
+				"re",
+				"reduceArray"
+			],
+			[
+				"o",
+				"onclick"
+			],
+			[
+				"color",
+				"color1"
+			],
+			[
+				"c",
+				"color2"
+			],
+			[
+				"bl",
+				"darkblue"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"cre",
+				"createListElement"
+			],
+			[
+				"us",
+				"username1"
+			],
+			[
+				"pass",
+				"password1"
+			],
+			[
+				"pa",
+				"password1"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"ar",
+				"array2"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"t",
+				"transition\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"file ico",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"A File Icon",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"bu",
+				"Build: New Build System"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"",
+				"Install Package Control"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/DEKUNBI/Desktop/sublimeText/advArray.js",
+		"/C/Users/DEKUNBI/Desktop/sublimeText/Background_generator/index.html",
+		"/C/Users/DEKUNBI/Desktop/sublimeText/adv.js",
+		"/C/Users/DEKUNBI/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/DEKUNBI/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/DEKUNBI/AppData/Roaming/Sublime Text 3/Packages/Material Theme/.supports-a-file-icon-customization",
+		"/C/Users/DEKUNBI/AppData/Roaming/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+		"/C/Users/DEKUNBI/Desktop/sublimeText/modules.js",
+		"/C/Users/DEKUNBI/Desktop/sublimeText/advObj.js",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/13. Advanced Javascript/8.1 exercise4.js.js",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/13. Advanced Javascript/8.1 exercise4-SOLUTIONS.js.js",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/13. Advanced Javascript/10.2 exercise5-SOLUTIONS (1).js.js",
+		"/C/Users/DEKUNBI/Desktop/sublimeText/advFunc.js",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/13. Advanced Javascript/6.1 exercise3-SOLUTIONS.js.js",
+		"/C/Users/DEKUNBI/Desktop/sublimeText/ternary.js",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/13. Advanced Javascript/4.1 exercise2.js.js",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/13. Advanced Javascript/6.1 exercise3.js.js",
+		"/C/Users/DEKUNBI/Desktop/sublimeText/ES5_6.js",
+		"/C/Users/DEKUNBI/Desktop/New folder/Background_generator/index.html",
+		"/C/Users/DEKUNBI/Desktop/New folder/Background_generator/index.css",
+		"/C/Users/DEKUNBI/Desktop/New folder/Background_generator/index.js",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/13. Advanced Javascript/2.1 exercise1.js.js",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/13. Advanced Javascript/2.2 exercise1-SOLUTIONS.js.js",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/12. DOM Manipulation/9.3 script.js.js",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/12. DOM Manipulation/9.1 style.css.css",
+		"/C/Users/DEKUNBI/Documents/week3/index.html,project.html",
+		"/C/Users/DEKUNBI/Documents/shop_todo_list/style.css",
+		"/C/Users/DEKUNBI/Documents/shop_todo_list/learnjs.js",
+		"/C/Users/DEKUNBI/Documents/shop_todo_list/Learning.html",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/12. DOM Manipulation/6.1 script.js.js",
+		"/C/Users/DEKUNBI/Videos/The Complete Web Developer in 2019 Zero to Mastery/12. DOM Manipulation/6.2 script.js.js",
+		"/C/Users/DEKUNBI/Desktop/New folder/script.js",
+		"/C/Users/DEKUNBI/Desktop/New folder/exe.js",
+		"/C/Users/DEKUNBI/Desktop/New folder/exee.js",
+		"/C/Users/DEKUNBI/Desktop/New folder/nodejs",
+		"/C/Users/DEKUNBI/Documents/week3/My diary.css",
+		"/C/Users/DEKUNBI/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/DEKUNBI/Documents/week3/week3.css",
+		"/C/Users/DEKUNBI/Documents/week3/week 3.html",
+		"/C/Users/DEKUNBI/AppData/Roaming/Sublime Text 3/Packages/User/javascript.sublimebuild",
+		"/C/Users/DEKUNBI/Documents/week3/my diary.html",
+		"/C/Users/DEKUNBI/Documents/week3/obama.gif",
+		"/C/Users/DEKUNBI/Downloads/assignment_files/Unconfirmed 758686.crdownload",
+		"/C/Users/DEKUNBI/Downloads/Unconfirmed 758686.crdownload",
+		"/C/Users/DEKUNBI/Documents/week3/My diary",
+		"/C/Users/DEKUNBI/Desktop/Screen Shot 2018-08-13 at 6.25.57 PM - Shortcut.zip",
+		"/C/Users/DEKUNBI/Documents/week3/week 3.css",
+		"/C/Users/DEKUNBI/Documents/week 3.css",
+		"/C/Users/DEKUNBI/Documents/week 3 html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			],
+			[
+				"my diary",
+				"C:\\Users\\DEKUNBI\\Documents\\week3\\My diary"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
